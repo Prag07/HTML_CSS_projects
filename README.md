@@ -1,0 +1,1 @@
+This repository contains my practice projects for HTML and CSS while i'm learning CSS and javascript on the side. 
